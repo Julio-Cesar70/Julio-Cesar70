@@ -8,7 +8,7 @@
 
 • 🧑‍💻 Cursando Engenharia de Software
 <p align="left">
-    <a href="[www.linkedin.com/in/julio-bonizoli](https://www.linkedin.com/in/julio-bonizoli-825131311/)">
+    <a href="https://www.linkedin.com/in/julio-bonizoli-825131311/">
         <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
 </p>
