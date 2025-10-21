@@ -42,7 +42,14 @@
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
-          
+
+<img 
+    align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
 
 <br/>
 <br/>
