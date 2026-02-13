@@ -4,7 +4,7 @@
 
 • 😎 Sou fascinado por tecnologia e curioso para saber como cada coisa funciona por baixo do panos.
 
-• Atualmente estou buscando mais conhecimentos em Python e buscando se aprofundar cada vez mais nesta linguagem.
+• Atualmente estou buscando mais conhecimentos em .NET e buscando se aprofundar cada vez mais nesta plataforma.
 
 • 🧑‍💻 Cursando Engenharia de Software
 <p align="left">
@@ -49,6 +49,15 @@
     title="MySql"
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt=".NET" 
+    title=".NET"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
 />
 
 <br/>
